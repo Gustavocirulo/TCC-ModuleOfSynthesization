@@ -1,0 +1,2 @@
+# TCC-ModuleOfSynthesization
+MÓDULO DE SINTETIZAÇÃO E EFEITOS DE SOM
