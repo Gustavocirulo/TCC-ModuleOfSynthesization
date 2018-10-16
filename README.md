@@ -168,6 +168,8 @@ Conclusão aqui
 REFERÊNCIAS
 
 http://www.linhadecodigo.com.br/artigo/250/como-tocar-som-com-vbnet.aspx
+https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/
+https://processing.org/tutorials/sound/
 
 APÊNDICES
 
